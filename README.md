@@ -5,13 +5,16 @@ A production-grade, full-stack web application for managing hardware components.
 ## **📸 Frontend Snapshot**
 
 *(Replace this placeholder with an actual screenshot of your UI before submitting)*
-![Hardware Catalog Dashboard]
+[Hardware Catalog Dashboard]
 <img width="1892" height="870" alt="dashboard" src="https://github.com/user-attachments/assets/499cae9a-2da1-468c-8e9c-01062af1a39f" />
-![Paging]
+
+[Paging]
 <img width="1895" height="353" alt="paging" src="https://github.com/user-attachments/assets/523d132a-822a-48c5-a275-7fa5afb934ee" />
-![Login]
+
+[Login]
 <img width="646" height="421" alt="signup" src="https://github.com/user-attachments/assets/32e86862-00c0-4aaf-96a9-ec91fbd013ab" />
-![Signup]
+
+[Signup]
 <img width="879" height="687" alt="login" src="https://github.com/user-attachments/assets/e0065ef5-d757-43b1-b6ee-2247fb152832" />
 
 
