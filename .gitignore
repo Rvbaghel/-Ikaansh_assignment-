@@ -26,4 +26,8 @@ target/
 /nbproject/copylib-libraries.properties
 
 ### Secrets & Environment ###
+# Ignore local secrets
+src/main/resources/application-local.properties
 .env
+.env.*
+!.env.example
